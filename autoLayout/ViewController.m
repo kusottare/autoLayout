@@ -20,6 +20,8 @@
 	// Do any additional setup after loading the view, typically from a nib.
     
     self.testLabel.text = @"test1";
+    self.testLabel.text = @"test2";
+    self.testLabel.text = @"test3";
 
     
     
